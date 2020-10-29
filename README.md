@@ -3,12 +3,19 @@
 
 
 1.Inicio
+
 2.Declarar variable Exame1, Exame2, Exame3
+
 3.Calcular Exame1*25% = N1
+
 4.Calcular Exame2*25% = N2
+
 5.Calcular Exame3*50% = N3
+
 6.Calcular Promedio = (N1,N2,N3)/3
+
 7.Mostrar Promedio
-7.Fin
+
+8.Fin
 
 Format: ![DFD](notapromedio.jpeg)
